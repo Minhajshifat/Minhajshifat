@@ -1,26 +1,62 @@
-<h1 align="center">Hi 👋, I'm Minahajul Islam Shifat</h1>
-<h3 align="center">A passionat Backend developer from Bangladesh</h3>
+![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajshifat&label=Profile%20views&color=0e75b6&style=flat" alt="minhajshifat" /> </p>
+<h1 align="center">Hi there, I'm Minhajul Islam Shifat! 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhajshifat" alt="minhajshifat" /></a> </p>
-
-- 🌱 I’m currently learning **Django, Rest framework**
-
-- 💬 Ask me about **C,C++,Python,DSA,Django**
-
-- 📫 How to reach me **shifatx62@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/minhajul islam shifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhajul islam shifat" height="30" width="40" /></a>
-<a href="https://instagram.com/minhajshifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhajshifat" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Minhajshifat">
+    <img src="https://img.shields.io/github/followers/Minhajshifat?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Minhajshifat">
+    <img src="https://img.shields.io/github/stars/Minhajshifat?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+ 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajshifat&show_icons=true&locale=en&layout=compact" alt="minhajshifat" /></p>
+I'm a passionate developer with experience in:
+- **Languages**: ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+- **Frameworks**: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhajshifat&show_icons=true&locale=en" alt="minhajshifat" /></p>
+I'm currently a second-year student at the University of Global Village. I love building web applications and APIs.
+
+## 🌟 Projects
+
+### Project 1: [Project Name](https://github.com/your-username/project1)
+![Project 1](https://via.placeholder.com/400x200.png?text=Project+1)
+Description of the project.
+
+### Project 2: [Project Name](https://github.com/your-username/project2)
+![Project 2](https://via.placeholder.com/400x200.png?text=Project+2)
+Description of the project.
+
+## 📫 How to reach me
+
+<p align="left">
+  <a href="shifatx62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Minhajshifat">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhajshifat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajshifat&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## ✨ Fun Fact
+
+I love exploring new technologies and applying them to solve real-world problems. When I'm not coding, you can find me reading books or playing video games.
+
+![Footer](https://via.placeholder.com/1200x200.png?text=Thank+You+for+Visiting+My+Profile)
+
+
 
