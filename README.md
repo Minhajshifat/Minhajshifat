@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Minahajul Islam Shifat</h1>
-<h3 align="center">A passionat Backend developer from Bangladesh</h3>
+<h1 align="center">Assalamualaikum 👋, I'm Minahajul Islam Shifat</h1>
+<h3 align="center">A passionat app developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhajshifat" alt="minhajshifat" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Rest framework**
+- 🌱 I’m currently learning **Flutter & Dart**
 
-- 💬 Ask me about **C,C++,Python,DSA,Django**
+- 💬 Ask me about **C,C++,Python,Dart,DSA,Flutter,Django**
 
 - 📫 How to reach me **shifatx62@gmail.com**
 
